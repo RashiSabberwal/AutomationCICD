@@ -1,0 +1,7 @@
+automationproject\AbstractComponenets\AbstractComponent.class
+automationproject\pageobjectmodel\ProductCatalogue.class
+automationproject\pageobjectmodel\Cart.class
+automationproject\pageobjectmodel\OrdersPage.class
+automationproject\pageobjectmodel\LandingPage.class
+automationproject\pageobjectmodel\OrderPage.class
+automationproject\resources\ExtentReporterNG.class

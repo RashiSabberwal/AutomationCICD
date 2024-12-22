@@ -1,0 +1,6 @@
+automationproject\Tests\SubmitOrderTest.class
+automationproject\TestComponents\Listeners.class
+automationproject\data\DataReader.class
+automationproject\Tests\StandAloneTest.class
+automationproject\TestComponents\BaseTest.class
+automationproject\Tests\ErrorValidationsTest.class
